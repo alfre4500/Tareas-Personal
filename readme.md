@@ -49,3 +49,11 @@ Una vez que la carpeta se genera ya pueden arrastrarla al ícono de Visual Studi
 ```bash
     exit
 ```
+
+# Tareas
+
+Las tareas se encuentran en la rama tareas de este repositorio.
+Verán que hay un desplegable en el repo que dice "clases". Si clickean ahí verán
+que pueden cambiar a tareas. 
+Allí encontarán la carpeta de la tarea y dentro encontarán un archivo readme.md con
+las consignas.
