@@ -15,7 +15,7 @@ de Windows o del sistema operativo que tengas el programa GIT BASH. Si lo tienes
 ```
 2. Hacer click en el boton verde que dice "Code" del repositorio y copiar el enlace que allí figura.
 
-3. Ir a la terminar que abrieron con el cmd y escribir el siguiente comando. 
+3. Ir a la terminal que abrieron con el cmd y escribir el siguiente comando. 
 Nota: Revisen bien en que carpeta van a ejecutar el comando para luego poder encontrar el archivo
 que se genera.
 ```bash
