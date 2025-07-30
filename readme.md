@@ -21,6 +21,31 @@ que se genera.
 ```bash
     git clone pegar_enlace_extraido_del_boton_Code
 ```
-4. Una vez que ejecutan ese comando se deberia crear una carpeta en la ubicación que figura en la terminal.
+4. Una vez que ejecutan ese comando se debería crear una carpeta en la ubicación que figura en la terminal.
 Una vez que la carpeta se genera ya pueden arrastrarla al ícono de Visual Studio Code.
 
+## Comandos para recorrer en terminal
+1. Moverte a un archivo/carpeta (directorio) interno de la carpeta actual (directorio actual).
+```bash
+    cd nombre_archivo
+```
+2. Regresar al directorio anterior.
+```bash
+    cd ..
+```
+3. Revisar todos los archivos del directorio actual
+```bash
+    dir
+```
+4. Crear una nueva carpeta
+```bash
+    mkdir nombre_carpeta
+```
+5. Limpiar terminal
+```bash
+    cls
+```
+6. Cerrar terminal
+```bash
+    exit
+```
