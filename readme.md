@@ -55,7 +55,7 @@ Una vez que la carpeta se genera ya pueden arrastrarla al ícono de Visual Studi
 
 - git init: inicializa git en un proyecto.
 - git remote add origin [enlace repo]: Conecta un proyecto con un repositorio.
-- git remote set-url origin [enlace nuevo repo]: Resvincula el proyecto de un repo, y lo vinculo al nuevo.
+- git remote set-url origin [enlace nuevo repo]: Desvincula el proyecto de un repo, y lo vinculo al nuevo.
 
 ### Preparamos nuestros cambios para ser enviados al repositrio.
 - git add [nombre achivo]: Registra un archivo para ser enviado al repo.
